@@ -1,0 +1,6 @@
+bin/
+obj/
+coveragereport/
+.vscode/
+TestResults/
+Higs.Demo/
